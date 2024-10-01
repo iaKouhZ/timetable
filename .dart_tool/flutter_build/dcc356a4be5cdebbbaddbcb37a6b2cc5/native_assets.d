@@ -1,0 +1,1 @@
+ D:\\Android\\Project\\timetable\\.dart_tool\\flutter_build\\dcc356a4be5cdebbbaddbcb37a6b2cc5\\native_assets.yaml: 
